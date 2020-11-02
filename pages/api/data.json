@@ -1,0 +1,70 @@
+[
+    {
+      "region": "India",
+      "country_code": "in",
+      "url": "google.co.in",
+      "cities": [
+        {
+          "name": "Delhi",
+          "code": "DLI"
+        },
+        {
+          "name": "Hyderabad",
+          "code": "HYB"
+        },
+        {
+          "name": "Mumbai",
+          "code": "MB"
+        },
+        {
+          "name": "Jaipur",
+          "code": "JP"
+        }
+      ]
+    },
+    {
+      "region": "United Arab Emirates",
+      "country_code": "ae",
+      "url": "google.ae",
+      "cities": [
+        {
+          "name": "Dubai",
+          "code": "DXB"
+        },
+        {
+          "name": "Sharjah",
+          "code": "SHJ"
+        },
+        {
+          "name": "Abu Dhabi",
+          "code": "AE"
+        },
+        {
+          "name": "Ajman",
+          "code": "AJ"
+        }
+      ]
+    },
+    {
+      "region": "London",
+      "country_code": "ln",
+      "url": "google.ae",
+      "cities": [
+        {
+          "name": "London",
+          "code": "ln"
+        }
+      ]
+    },
+    {
+      "region": "USA",
+      "country_code": "ln",
+      "url": "google.ae",
+      "cities": [
+        {
+          "name": "Concord",
+          "code": "cn"
+        }
+      ]
+    }
+  ]
